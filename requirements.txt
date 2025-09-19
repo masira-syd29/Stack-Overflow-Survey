@@ -1,1 +1,7 @@
-pip install streamlit numpy pandas opendatasets seaborn matplotlib squarify pycountry_convert
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+pycountry-convert
+squarify
